@@ -1,1 +1,1 @@
-# SMART-DCIM-BOT
+# Easy Check alarm Chat-BOT
